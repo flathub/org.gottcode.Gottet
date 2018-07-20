@@ -19,8 +19,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/gottet/gottet-1.1.6-src.tar.bz2",
-					"sha256": "b7124832e4ffdb404e9fd6f6f35ec37eb86352f49dc315fa48aa06aecd3d6c5c"
+					"url": "https://gottcode.org/gottet/gottet-1.1.7-src.tar.bz2",
+					"sha256": "7cc6c49cb191a264dccf18659b885ead921f01ad496dac9774c7ec49428c8a7d"
 				}
 			]
 		}
