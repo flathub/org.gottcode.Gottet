@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/gottet/gottet-1.1.8-src.tar.bz2",
-					"sha256": "440e9570e2909e3029cced304774a15d83b4019925ac9a4cfb44c1f8a77592d8"
+					"url": "https://gottcode.org/gottet/gottet-1.1.9-src.tar.bz2",
+					"sha256": "6c979caa5b3fa6854ca8367ca0595814fcc101f0bdfad02d64219dd9049abb2b"
 				}
 			]
 		}
