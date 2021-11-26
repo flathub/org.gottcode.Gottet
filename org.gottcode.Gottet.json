@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Gottet",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.15-21.08",
+	"runtime-version": "6.2",
 	"sdk": "org.kde.Sdk",
 	"command": "gottet",
 	"rename-icon": "gottet",
@@ -18,7 +18,7 @@
 	"modules": [
 		{
 			"name": "gottet",
-			"buildsystem": "qmake",
+			"buildsystem": "cmake-ninja",
 			"sources": [
 				{
 					"type": "archive",
