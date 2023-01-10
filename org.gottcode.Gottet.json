@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Gottet",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.3",
+	"runtime-version": "6.4",
 	"sdk": "org.kde.Sdk",
 	"command": "gottet",
 	"rename-icon": "gottet",
@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/gottet/gottet-1.2.1-src.tar.bz2",
-					"sha256": "f8207e7d4ec9c5c4f9d98dba4ed85a6137f0bc77ef973742d8bf91e154b86e54"
+					"url": "https://gottcode.org/gottet/gottet-1.2.2.tar.bz2",
+					"sha256": "9f594db87c7b6ce62f105578c100ce8dac62485c6d9b09be506166a1780092d0"
 				}
 			]
 		}
