@@ -1,0 +1,16 @@
+diff --git a/icons/gottet.appdata.xml b/icons/gottet.appdata.xml
+index 3d77acb..0dcc4fd 100644
+--- a/icons/gottet.appdata.xml
++++ b/icons/gottet.appdata.xml
+@@ -80,7 +80,7 @@
+     <binary>gottet</binary>
+   </provides>
+   <launchable type="desktop-id">gottet.desktop</launchable>
+-  <icon type="stock">gottet</icon>
++  <icon type="stock">org.gottcode.Gottet</icon>
+ 
+   <categories>
+     <category>Game</category>
+-- 
+2.44.0
+
