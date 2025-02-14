@@ -22,12 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/gottet/gottet-1.2.5.tar.bz2",
-					"sha256": "24dfb7e86c8149dcbac0eb2cb390247e22c6f53b48a77df9fa5a2425a28b9049"
-				},
-				{
-					"type": "patch",
-					"path": "rename-icon.patch"
+					"url": "https://gottcode.org/gottet/gottet-1.2.6.tar.bz2",
+					"sha256": "a0983641a14552b2363f9b7ac2bc546f58169315d924f43cabceb2bd062986b0"
 				}
 			]
 		}
